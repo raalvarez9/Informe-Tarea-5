@@ -2,9 +2,10 @@
 
 ## 1. OBJETIVOS:
 ### 1.1 Objetivo General:
-* 
+* Comprender los temas de análisis de ramas, lazos, nodos, magnetismo y electromagnetismo mediante la utilización del material digital "Principios de Circuitos Eléctricos"
 ### 1.2 Objetivo Específico:
-* 
+* Identificar los diferentes procesos para la resolución de circuitos eléctricos y utilizarlos como una herramienta al momento de analizar circuitos mixtos.
+* Analizar los diferentes dispositivos y aparatos que contienen electromagnetismo para comprender el funcionamiento que pueden tener estos.
 
 ## 2. MARCO TEÓRICO:
 ### 2.1  Análisis de Ramas, Lazos y Nodos. (CAPITULO 9)
@@ -27,7 +28,8 @@
 ## 4. VIDEO:
 
 ## 5. CONCLUSIONES:
-
+* Los diferentes procesos para resolver circuitos eléctricos, han sido una muy buena herramienta al momento de analizar circuitos mixtos.
+* Se tiene que la intensidad de campo magnético puede ser incrementada o reducida con facilidad variando la corriente a través de la bobina de alambre, y puede ser invertida invirtiendo la polaridad del voltaje presente en la bobina.
 
 ## 6. BIBLIOGRAFÍA
 Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación.
